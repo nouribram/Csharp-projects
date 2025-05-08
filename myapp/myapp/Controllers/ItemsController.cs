@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MyApp.Models;
+using myapp.Models;
 
 
 namespace MyApp.Controllers
@@ -8,8 +8,16 @@ namespace MyApp.Controllers
     {
         public IActionResult Overview()
         {
-            var item = new Item
-            return View();
+            var item = new Item() { Name = "keyboard" };
+            return View(item);
+        }
+
+
+        public IActionResult Edit(int id)
+        {
+            return Content("id= " + id);
+
         }
     }
 }
+
