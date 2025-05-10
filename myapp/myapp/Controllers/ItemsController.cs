@@ -13,7 +13,7 @@ namespace MyApp.Controllers
         }
 
 
-        public IActionResult Edit(int id)
+        public IActionResult Edit(int itemId)
         {
             return Content("id= " + id);
 
