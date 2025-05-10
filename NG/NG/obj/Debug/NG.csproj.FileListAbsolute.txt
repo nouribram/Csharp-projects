@@ -1,0 +1,7 @@
+D:\c# projects\NG\NG\bin\Debug\NG.exe.config
+D:\c# projects\NG\NG\bin\Debug\NG.exe
+D:\c# projects\NG\NG\bin\Debug\NG.pdb
+D:\c# projects\NG\NG\obj\Debug\NG.csproj.AssemblyReference.cache
+D:\c# projects\NG\NG\obj\Debug\NG.csproj.CoreCompileInputs.cache
+D:\c# projects\NG\NG\obj\Debug\NG.exe
+D:\c# projects\NG\NG\obj\Debug\NG.pdb

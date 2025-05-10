@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# projects\\myapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|d:\\c# projects\\myapp\\myapp\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|solutionrelative:myapp\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|d:\\c# projects\\myapp\\myapp\\myapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|solutionrelative:myapp\\myapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|d:\\c# projects\\myapp\\myapp\\views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|solutionrelative:myapp\\views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|d:\\c# projects\\myapp\\myapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|solutionrelative:myapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyAppContext.cs",
+              "DocumentMoniker": "D:\\c# projects\\myapp\\myapp\\Data\\MyAppContext.cs",
+              "RelativeDocumentMoniker": "myapp\\Data\\MyAppContext.cs",
+              "ToolTip": "D:\\c# projects\\myapp\\myapp\\Data\\MyAppContext.cs",
+              "RelativeToolTip": "myapp\\Data\\MyAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:36:02.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "myapp",
+              "DocumentMoniker": "D:\\c# projects\\myapp\\myapp\\myapp.csproj",
+              "RelativeDocumentMoniker": "myapp\\myapp.csproj",
+              "ToolTip": "D:\\c# projects\\myapp\\myapp\\myapp.csproj",
+              "RelativeToolTip": "myapp\\myapp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T14:34:42.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Overview.cshtml",
+              "DocumentMoniker": "D:\\c# projects\\myapp\\myapp\\Views\\Items\\Overview.cshtml",
+              "RelativeDocumentMoniker": "myapp\\Views\\Items\\Overview.cshtml",
+              "ToolTip": "D:\\c# projects\\myapp\\myapp\\Views\\Items\\Overview.cshtml",
+              "RelativeToolTip": "myapp\\Views\\Items\\Overview.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T14:18:02.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\c# projects\\myapp\\myapp\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "myapp\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\c# projects\\myapp\\myapp\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "myapp\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:05:15.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

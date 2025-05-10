@@ -1,0 +1,7 @@
+D:\c# projects\Die game\Die game\bin\Debug\Die game.exe.config
+D:\c# projects\Die game\Die game\bin\Debug\Die game.exe
+D:\c# projects\Die game\Die game\bin\Debug\Die game.pdb
+D:\c# projects\Die game\Die game\obj\Debug\Die game.csproj.AssemblyReference.cache
+D:\c# projects\Die game\Die game\obj\Debug\Die game.csproj.CoreCompileInputs.cache
+D:\c# projects\Die game\Die game\obj\Debug\Die game.exe
+D:\c# projects\Die game\Die game\obj\Debug\Die game.pdb

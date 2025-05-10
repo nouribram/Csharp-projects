@@ -15,8 +15,7 @@ namespace MyApp.Controllers
 
         public IActionResult Edit(int itemId)
         {
-            return Content("id= " + id);
-
+            return Content("id= " + itemId);
         }
     }
 }
