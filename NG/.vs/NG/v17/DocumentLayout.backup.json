@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\c# projects\\NG\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D98F1777-E45F-413C-A203-BB58CD7CBA9C}|NG\\NG.csproj|d:\\c# projects\\ng\\ng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D98F1777-E45F-413C-A203-BB58CD7CBA9C}|NG\\NG.csproj|solutionrelative:ng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,19 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c# projects\\NG\\NG\\Program.cs",
-              "RelativeDocumentMoniker": "NG\\Program.cs",
-              "ToolTip": "D:\\c# projects\\NG\\NG\\Program.cs*",
-              "RelativeToolTip": "NG\\Program.cs*",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T14:55:21.954Z",
-              "EditorCaption": ""
             }
           ]
         }
