@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|solutionrelative:myapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|d:\\c# projects\\myapp\\myapp\\migrations\\20250517215323_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|solutionrelative:myapp\\migrations\\20250517215323_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|d:\\c# projects\\myapp\\myapp\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|solutionrelative:myapp\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|d:\\c# projects\\myapp\\myapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|solutionrelative:myapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|d:\\c# projects\\myapp\\myapp\\models\\itemclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|solutionrelative:myapp\\models\\itemclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|d:\\c# projects\\myapp\\myapp\\migrations\\20250517211228_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|solutionrelative:myapp\\migrations\\20250517211228_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|d:\\c# projects\\myapp\\myapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE903769-66B3-4F81-B693-88700521684E}|myapp\\myapp.csproj|solutionrelative:myapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,9 +40,9 @@
               "RelativeDocumentMoniker": "myapp\\Views\\Items\\Index.cshtml",
               "ToolTip": "D:\\c# projects\\myapp\\myapp\\Views\\Items\\Index.cshtml",
               "RelativeToolTip": "myapp\\Views\\Items\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-17T22:27:35.81Z",
+              "WhenOpened": "2025-05-19T20:33:29.846Z",
               "EditorCaption": ""
             },
             {
@@ -53,48 +53,48 @@
               "RelativeDocumentMoniker": "myapp\\Controllers\\ItemsController.cs",
               "ToolTip": "D:\\c# projects\\myapp\\myapp\\Controllers\\ItemsController.cs",
               "RelativeToolTip": "myapp\\Controllers\\ItemsController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:57:03.915Z",
+              "WhenOpened": "2025-05-19T20:24:10.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20250517215323_second migration.cs",
-              "DocumentMoniker": "D:\\c# projects\\myapp\\myapp\\Migrations\\20250517215323_second migration.cs",
-              "RelativeDocumentMoniker": "myapp\\Migrations\\20250517215323_second migration.cs",
-              "ToolTip": "D:\\c# projects\\myapp\\myapp\\Migrations\\20250517215323_second migration.cs",
-              "RelativeToolTip": "myapp\\Migrations\\20250517215323_second migration.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAJAAAAAAAAAA==",
+              "Title": "MyAppContext.cs",
+              "DocumentMoniker": "D:\\c# projects\\myapp\\myapp\\Data\\MyAppContext.cs",
+              "RelativeDocumentMoniker": "myapp\\Data\\MyAppContext.cs",
+              "ToolTip": "D:\\c# projects\\myapp\\myapp\\Data\\MyAppContext.cs",
+              "RelativeToolTip": "myapp\\Data\\MyAppContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAoAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:53:23.6Z",
+              "WhenOpened": "2025-05-19T19:47:53.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Item.cs",
-              "DocumentMoniker": "D:\\c# projects\\myapp\\myapp\\Models\\Item.cs",
-              "RelativeDocumentMoniker": "myapp\\Models\\Item.cs",
-              "ToolTip": "D:\\c# projects\\myapp\\myapp\\Models\\Item.cs",
-              "RelativeToolTip": "myapp\\Models\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Title": "ItemClient.cs",
+              "DocumentMoniker": "D:\\c# projects\\myapp\\myapp\\Models\\ItemClient.cs",
+              "RelativeDocumentMoniker": "myapp\\Models\\ItemClient.cs",
+              "ToolTip": "D:\\c# projects\\myapp\\myapp\\Models\\ItemClient.cs",
+              "RelativeToolTip": "myapp\\Models\\ItemClient.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:40:44.1Z",
+              "WhenOpened": "2025-05-19T19:46:37.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20250517211228_Initial Migration.cs",
-              "DocumentMoniker": "D:\\c# projects\\myapp\\myapp\\Migrations\\20250517211228_Initial Migration.cs",
-              "RelativeDocumentMoniker": "myapp\\Migrations\\20250517211228_Initial Migration.cs",
-              "ToolTip": "D:\\c# projects\\myapp\\myapp\\Migrations\\20250517211228_Initial Migration.cs",
-              "RelativeToolTip": "myapp\\Migrations\\20250517211228_Initial Migration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\c# projects\\myapp\\myapp\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "myapp\\Models\\Client.cs",
+              "ToolTip": "D:\\c# projects\\myapp\\myapp\\Models\\Client.cs",
+              "RelativeToolTip": "myapp\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:12:28.801Z",
+              "WhenOpened": "2025-05-19T19:20:15.428Z",
               "EditorCaption": ""
             },
             {
