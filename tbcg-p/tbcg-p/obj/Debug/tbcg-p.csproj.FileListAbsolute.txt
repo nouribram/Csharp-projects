@@ -1,0 +1,7 @@
+D:\c# projects\tbcg-p\tbcg-p\bin\Debug\tbcg-p.exe.config
+D:\c# projects\tbcg-p\tbcg-p\bin\Debug\tbcg-p.exe
+D:\c# projects\tbcg-p\tbcg-p\bin\Debug\tbcg-p.pdb
+D:\c# projects\tbcg-p\tbcg-p\obj\Debug\tbcg-p.csproj.AssemblyReference.cache
+D:\c# projects\tbcg-p\tbcg-p\obj\Debug\tbcg-p.csproj.CoreCompileInputs.cache
+D:\c# projects\tbcg-p\tbcg-p\obj\Debug\tbcg-p.exe
+D:\c# projects\tbcg-p\tbcg-p\obj\Debug\tbcg-p.pdb

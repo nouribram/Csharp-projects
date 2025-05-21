@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# projects\\rps-p\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{221BCF66-FB3E-4BF4-809C-D7EBB017AE48}|rps-p\\rps-p.csproj|d:\\c# projects\\rps-p\\rps-p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221BCF66-FB3E-4BF4-809C-D7EBB017AE48}|rps-p\\rps-p.csproj|solutionrelative:rps-p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# projects\\rps-p\\rps-p\\Program.cs",
+              "RelativeDocumentMoniker": "rps-p\\Program.cs",
+              "ToolTip": "D:\\c# projects\\rps-p\\rps-p\\Program.cs",
+              "RelativeToolTip": "rps-p\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:10:42.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

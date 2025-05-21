@@ -1,0 +1,7 @@
+D:\c# projects\rps-p\rps-p\obj\Debug\rps-p.csproj.AssemblyReference.cache
+D:\c# projects\rps-p\rps-p\obj\Debug\rps-p.csproj.CoreCompileInputs.cache
+D:\c# projects\rps-p\rps-p\bin\Debug\rps-p.exe.config
+D:\c# projects\rps-p\rps-p\bin\Debug\rps-p.exe
+D:\c# projects\rps-p\rps-p\bin\Debug\rps-p.pdb
+D:\c# projects\rps-p\rps-p\obj\Debug\rps-p.exe
+D:\c# projects\rps-p\rps-p\obj\Debug\rps-p.pdb
