@@ -1,0 +1,7 @@
+D:\c# projects\QG-P\QG-P\obj\Debug\QG-P.csproj.AssemblyReference.cache
+D:\c# projects\QG-P\QG-P\obj\Debug\QG-P.csproj.CoreCompileInputs.cache
+D:\c# projects\QG-P\QG-P\bin\Debug\QG-P.exe.config
+D:\c# projects\QG-P\QG-P\bin\Debug\QG-P.exe
+D:\c# projects\QG-P\QG-P\bin\Debug\QG-P.pdb
+D:\c# projects\QG-P\QG-P\obj\Debug\QG-P.exe
+D:\c# projects\QG-P\QG-P\obj\Debug\QG-P.pdb

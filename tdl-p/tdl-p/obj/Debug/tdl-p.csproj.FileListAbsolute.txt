@@ -1,0 +1,7 @@
+D:\c# projects\tdl-p\tdl-p\obj\Debug\tdl-p.csproj.AssemblyReference.cache
+D:\c# projects\tdl-p\tdl-p\obj\Debug\tdl-p.csproj.CoreCompileInputs.cache
+D:\c# projects\tdl-p\tdl-p\bin\Debug\tdl-p.exe.config
+D:\c# projects\tdl-p\tdl-p\bin\Debug\tdl-p.exe
+D:\c# projects\tdl-p\tdl-p\bin\Debug\tdl-p.pdb
+D:\c# projects\tdl-p\tdl-p\obj\Debug\tdl-p.exe
+D:\c# projects\tdl-p\tdl-p\obj\Debug\tdl-p.pdb

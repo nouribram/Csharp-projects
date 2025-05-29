@@ -1,0 +1,7 @@
+D:\c# projects\CTC\CTC\obj\Debug\CTC.csproj.AssemblyReference.cache
+D:\c# projects\CTC\CTC\obj\Debug\CTC.csproj.CoreCompileInputs.cache
+D:\c# projects\CTC\CTC\bin\Debug\CTC.exe.config
+D:\c# projects\CTC\CTC\bin\Debug\CTC.exe
+D:\c# projects\CTC\CTC\bin\Debug\CTC.pdb
+D:\c# projects\CTC\CTC\obj\Debug\CTC.exe
+D:\c# projects\CTC\CTC\obj\Debug\CTC.pdb

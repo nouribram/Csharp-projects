@@ -1,0 +1,7 @@
+D:\c# projects\RO-P\RO-P\bin\Debug\RO-P.exe.config
+D:\c# projects\RO-P\RO-P\bin\Debug\RO-P.exe
+D:\c# projects\RO-P\RO-P\bin\Debug\RO-P.pdb
+D:\c# projects\RO-P\RO-P\obj\Debug\RO-P.csproj.AssemblyReference.cache
+D:\c# projects\RO-P\RO-P\obj\Debug\RO-P.csproj.CoreCompileInputs.cache
+D:\c# projects\RO-P\RO-P\obj\Debug\RO-P.exe
+D:\c# projects\RO-P\RO-P\obj\Debug\RO-P.pdb

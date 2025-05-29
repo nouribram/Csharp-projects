@@ -1,0 +1,7 @@
+D:\c# projects\TBBS\TBBS\obj\Debug\TBBS.csproj.AssemblyReference.cache
+D:\c# projects\TBBS\TBBS\obj\Debug\TBBS.csproj.CoreCompileInputs.cache
+D:\c# projects\TBBS\TBBS\bin\Debug\TBBS.exe.config
+D:\c# projects\TBBS\TBBS\bin\Debug\TBBS.exe
+D:\c# projects\TBBS\TBBS\bin\Debug\TBBS.pdb
+D:\c# projects\TBBS\TBBS\obj\Debug\TBBS.exe
+D:\c# projects\TBBS\TBBS\obj\Debug\TBBS.pdb
