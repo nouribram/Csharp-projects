@@ -17,7 +17,7 @@ namespace rps_p
             int playersScore = 0;
             int enemyScore = 0;
 
-            Console.WriteLine("Welcome to rps");
+            Console.WriteLine("Welcome to rp");
 
             while(playersScore!= 3 && enemyScore != 3)
             {
