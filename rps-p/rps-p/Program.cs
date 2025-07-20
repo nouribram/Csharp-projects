@@ -25,7 +25,7 @@ namespace rps_p
                 Console.WriteLine("pls enter r for rock or p for paper or anything for scissor");
                 string playChoice = Console.ReadLine();
 
-                int enemyChoice = random.Next(0, 3);
+                int enemyChoice = random.Next(0, 2);
 
                 if (enemyChoice == 0)
                 {
