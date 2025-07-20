@@ -36,7 +36,7 @@ namespace rps_p
                         case 'r':
                             Console.WriteLine("Tie!");
                             break;
-                        case 'p':
+                        case 'l':
                             Console.WriteLine("player wins this round");
                             playersScore++;
                             break;
