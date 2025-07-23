@@ -34,7 +34,7 @@ namespace rps_p
                     switch (playerChoice) 
                     {
                         case 'r':
-                            Console.WriteLine("Tie!");
+                            Console.WriteLine("Tie");
                             break;
                         case 'l':
                             Console.WriteLine("player wins this round");
