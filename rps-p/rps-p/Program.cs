@@ -100,7 +100,7 @@ namespace rps_p
             }
             else
             {
-                Console.WriteLine("you lose");
+                Console.WriteLine("you lose!");
             }
         }
     }
