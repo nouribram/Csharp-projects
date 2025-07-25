@@ -94,7 +94,7 @@ namespace rps_p
 
             }
 
-            if (playerChoice == 3) 
+            if (playerChoice == 7) 
             {
                 Console.WriteLine("you won");
             }
