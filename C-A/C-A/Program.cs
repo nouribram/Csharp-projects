@@ -27,7 +27,7 @@ namespace C_A
 
             else 
             {
-                Console.WriteLine("please enter the radius of the circle");
+                Console.WriteLine("please enter the radius");
                 float radius = float.Parse(Console.ReadLine());
 
                 result = (float)Math.PI * (radius *  radius);
