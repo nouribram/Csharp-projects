@@ -34,7 +34,7 @@ namespace C_A
                
             }
 
-            Console.WriteLine("The Result is" + result);
+            Console.WriteLine("The Result is:" + result);
             Console.ReadKey();
         }
     }
