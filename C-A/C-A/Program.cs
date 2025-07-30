@@ -16,10 +16,10 @@ namespace C_A
 
             if (answer == "r")
             {
-                Console.WriteLine("Please enter the H of R");
+                Console.WriteLine("Please enter  H or R");
                 float height = float.Parse(Console.ReadLine());
 
-                Console.WriteLine("Please enter W of R");
+                Console.WriteLine("Please enter W or R");
                 float width = float.Parse(Console.ReadLine());
 
                 result = height * width;
