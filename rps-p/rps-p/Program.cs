@@ -22,7 +22,7 @@ namespace rps_p
             while(playersScore!= 3 && enemyScore != 3)
             {
                 Console.WriteLine("player score - " + playersScore + ". Enemy Score - " + enemyScore);
-                Console.WriteLine("pls enter r for rock or p for paper or anything for scissor");
+                Console.WriteLine("please enter r for rock or p for paper or anything for scissor");
                 string playChoice = Console.ReadLine();
 
                 int enemyChoice = random.Next(0, 2);
@@ -94,7 +94,7 @@ namespace rps_p
 
             }
 
-            if (playerChoice == 7) 
+            if (playerChoice == 8) 
             {
                 Console.WriteLine("you won!");
             }
