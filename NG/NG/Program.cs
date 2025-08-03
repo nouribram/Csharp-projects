@@ -14,18 +14,18 @@ namespace NG
 
 
             Console.WriteLine("Welcome Nourhan");
-            Console.WriteLine("if you guess the correct number, you win!");
+            Console.WriteLine("If you guess the correct number, you win!");
             
 
             while (!isCorrectGuess)
             {
-                Console.WriteLine("please enter a number");
+                Console.WriteLine("Please enter a number");
 
                 int guess = Convert.ToInt32(Console.ReadLine());
 
                 if (guess > randomNum)
                 {
-                    Console.WriteLine("your guess is too high");
+                    Console.WriteLine("Your guess is too high");
                 }
                 else if(guess < randomNum)
                 {
